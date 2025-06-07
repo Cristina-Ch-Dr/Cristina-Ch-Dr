@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristina</h1>
-<p align="center">I'm a studen of Cross-platform Application Development from Spain.</p>
+<p align="center">I'm a student of Cross-platform Application Development from Spain.</p>
 <p align="center">I really enjoy learning new things .</p>
 - 📫 How to reach me cristinachvartatska@gmail.com
 
